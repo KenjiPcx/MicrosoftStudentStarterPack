@@ -28,3 +28,6 @@ Save yourself some time from figuring out your pathway as a student developer
 
 Any pre-requisites?
 • None, besides a passion for technology
+
+# 30 Days to learn it challenge
+https://developer.microsoft.com/en-US/offers/30-days-to-learn-it
